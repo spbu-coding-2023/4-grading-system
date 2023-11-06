@@ -52,3 +52,6 @@
 [submodule "4-Sibiri4ok"]
 	path = 4-Sibiri4ok
 	url = git@github.com:spbu-coding-2023/4-Sibiri4ok.git
+[submodule "4-TerrMen"]
+	path = 4-TerrMen
+	url = git@github.com:spbu-coding-2023/4-TerrMen.git

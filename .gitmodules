@@ -106,3 +106,6 @@
 [submodule "4-spisladqo"]
 	path = 4-spisladqo
 	url = git@github.com:spbu-coding-2023/4-spisladqo.git
+[submodule "4-vicitori"]
+	path = 4-vicitori
+	url = git@github.com:spbu-coding-2023/4-vicitori.git

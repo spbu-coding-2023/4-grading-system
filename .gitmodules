@@ -55,3 +55,6 @@
 [submodule "4-TerrMen"]
 	path = 4-TerrMen
 	url = git@github.com:spbu-coding-2023/4-TerrMen.git
+[submodule "4-VersusXX"]
+	path = 4-VersusXX
+	url = git@github.com:spbu-coding-2023/4-VersusXX.git

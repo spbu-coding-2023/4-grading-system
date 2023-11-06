@@ -103,3 +103,6 @@
 [submodule "4-sgrishkova"]
 	path = 4-sgrishkova
 	url = git@github.com:spbu-coding-2023/4-sgrishkova.git
+[submodule "4-spisladqo"]
+	path = 4-spisladqo
+	url = git@github.com:spbu-coding-2023/4-spisladqo.git

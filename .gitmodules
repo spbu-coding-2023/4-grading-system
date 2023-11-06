@@ -79,3 +79,6 @@
 [submodule "4-starscream1337"]
 	path = 4-starscream1337
 	url = git@github.com:spbu-coding-2023/4-starscream1337.git
+[submodule "4-DanKu02"]
+	path = 4-DanKu02
+	url = git@github.com:spbu-coding-2023/4-DanKu02.git

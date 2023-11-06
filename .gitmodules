@@ -64,3 +64,6 @@
 [submodule "4-Ycyken"]
 	path = 4-Ycyken
 	url = git@github.com:spbu-coding-2023/4-Ycyken.git
+[submodule "4-b08lsoai"]
+	path = 4-b08lsoai
+	url = git@github.com:spbu-coding-2023/4-b08lsoai.git

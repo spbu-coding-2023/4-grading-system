@@ -124,3 +124,6 @@
 [submodule "4-Szczucki"]
 	path = 4-Szczucki
 	url = git@github.com:spbu-coding-2023/4-Szczucki.git
+[submodule "4-shvorobsofia"]
+	path = 4-shvorobsofia
+	url = git@github.com:spbu-coding-2023/4-shvorobsofia.git

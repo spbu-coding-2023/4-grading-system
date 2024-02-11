@@ -151,3 +151,6 @@
 [submodule "4-far1yg"]
 	path = 4-far1yg
 	url = git@github.com:spbu-coding-2023/4-far1yg.git
+[submodule "4-vicheka-sk"]
+	path = 4-vicheka-sk
+	url = git@github.com:spbu-coding-2023/4-vicheka-sk.git

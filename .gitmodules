@@ -157,3 +157,6 @@
 [submodule "4-ivanovmapths"]
 	path = 4-ivanovmapths
 	url = git@github.com:spbu-coding-2023/4-ivanovmapths.git
+[submodule "4-iakhammatova"]
+	path = 4-iakhammatova
+	url = git@github.com:spbu-coding-2023/4-iakhammatova.git
